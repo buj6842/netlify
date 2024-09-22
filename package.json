@@ -3,11 +3,11 @@
   "version": "1.00.00",
   "private": true,
   "scripts": {
-    "dev": "web-landing/node_modules/.bin/next dev",
-    "build": "web-landing/node_modules/.bin/next build",
-    "start": "cp -r web-landing/.next/static .next/standalone/.next/static && cp -r public .next/standalone/public && cross-env PORT=$npm_config_port HOSTNAME=$npm_config_host node .next/standalone/server.js",
-    "lint": "web-landing/node_modules/.bin/next lint",
-    "fix": "web-landing/node_modules/.bin/next lint --fix",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "cp -r .next/static .next/standalone/.next/static && cp -r public .next/standalone/public && cross-env PORT=$npm_config_port HOSTNAME=$npm_config_host node .next/standalone/server.js",
+    "lint": "next lint",
+    "fix": "next lint --fix",
     "eslint-fix": "eslint --fix"
   },
   "dependencies": {
