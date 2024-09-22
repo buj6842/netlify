@@ -58,6 +58,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 2 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -68,6 +69,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 2 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -78,6 +80,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 3 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -88,6 +91,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -97,6 +101,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -106,6 +111,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -115,6 +121,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -125,6 +132,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -135,6 +143,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -145,6 +154,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -155,6 +165,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
@@ -165,6 +176,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
             {/* 섹션 9 */}
@@ -174,6 +186,7 @@ const AIPlatformPage: React.FC = () => {
                     alt="Section 4 Image"
                     layout="fill"
                     objectFit="cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 100vw, 100vw"
                 />
             </section>
 
