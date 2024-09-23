@@ -24,7 +24,7 @@ const AIPlatformPage: React.FC = () => {
     return (
         <div className="flex flex-col min-h-screen">
             {/*/!* 섹션 1 *!/*/}
-            {/*<<section className="relative w-full h-0 pb-[56.33%]">*/}
+            {/*<section className="relative w-full h-0 pb-[56.33%]">*/}
             {/*    <Swiper*/}
             {/*        modules={[Autoplay]}*/}
             {/*        autoplay={{ delay: 6000, disableOnInteraction: false }} // 자동 슬라이드, 3초마다*/}
@@ -52,7 +52,7 @@ const AIPlatformPage: React.FC = () => {
 
 
             {/* 섹션 2 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion7.png"  // 섹션 2 이미지 경로
                     alt="Section 2 Image"
@@ -63,7 +63,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 2 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion4.png"  // 섹션 2 이미지 경로
                     alt="Section 2 Image"
@@ -74,7 +74,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 3 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion5.png"  // 섹션 3 이미지 경로
                     alt="Section 3 Image"
@@ -85,7 +85,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 4 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion6.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -95,7 +95,7 @@ const AIPlatformPage: React.FC = () => {
                 />
             </section>
 
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion1.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -105,7 +105,7 @@ const AIPlatformPage: React.FC = () => {
                 />
             </section>
 
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion2.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -115,7 +115,7 @@ const AIPlatformPage: React.FC = () => {
                 />
             </section>
 
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion3.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -126,7 +126,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 5 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion8.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -137,7 +137,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 6 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion9.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -148,7 +148,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 7 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion10.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -159,7 +159,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 8*/}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion11.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -170,7 +170,7 @@ const AIPlatformPage: React.FC = () => {
             </section>
 
             {/* 섹션 9 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion12.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
@@ -180,7 +180,7 @@ const AIPlatformPage: React.FC = () => {
                 />
             </section>
             {/* 섹션 9 */}
-            <<section className="relative w-full h-0 pb-[56.33%]">
+            <section className="relative w-full h-0 pb-[56.33%]">
                 <Image
                     src="/images/aion13.png"  // 섹션 4 이미지 경로
                     alt="Section 4 Image"
