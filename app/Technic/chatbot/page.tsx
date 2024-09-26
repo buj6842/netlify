@@ -24,7 +24,7 @@ const ChatbotPage = () => {
                 {/* 지식형 RAG 소개 이미지 */}
                 <div className="w-full flex justify-center">
                     <img
-                        src="/public/images/ai_image3.webp" // 지식형 RAG 소개 이미지 경로
+                        src="/images/ai_image3.webp" // 지식형 RAG 소개 이미지 경로
                         alt="지식형 RAG 소개 이미지"
                         className="w-full max-w-4xl object-cover"
                     />
@@ -84,7 +84,7 @@ const ChatbotPage = () => {
                 {/* 워크플로우형 소개 이미지 */}
                 <div className="w-full flex justify-center">
                     <img
-                        src="/public/images/ai_aigent_image.webp" // 워크플로우형 소개 이미지 경로
+                        src="/images/ai_aigent_image.webp" // 워크플로우형 소개 이미지 경로
                         alt="워크플로우형 소개 이미지"
                         className="w-full max-w-4xl object-cover"
                     />

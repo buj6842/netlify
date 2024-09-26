@@ -24,7 +24,7 @@ const LLMPage = () => {
                 {/* LLM 소개 이미지 */}
                 <div className="w-full flex justify-center">
                     <img
-                        src="/public/images/aion8.png" // LLM 소개 이미지 경로
+                        src="/images/aion8.png" // LLM 소개 이미지 경로
                         alt="LLM 소개 이미지"
                         className="w-full max-w-4xl object-cover"
                     />
@@ -54,7 +54,7 @@ const LLMPage = () => {
                 {/* RAG 소개 이미지 */}
                 <div className="w-full flex justify-center">
                     <img
-                        src="/public/images/aion5.png" // RAG 소개 이미지 경로
+                        src="/images/aion5.png" // RAG 소개 이미지 경로
                         alt="RAG 소개 이미지"
                         className="w-full max-w-4xl object-cover"
                     />
@@ -84,7 +84,7 @@ const LLMPage = () => {
                 {/* AI-Agent 소개 이미지 */}
                 <div className="w-full flex justify-center">
                     <img
-                        src="/public/images/ai_aigent_image.webp" // AI-Agent 소개 이미지 경로
+                        src="/images/ai_aigent_image.webp" // AI-Agent 소개 이미지 경로
                         alt="AI-Agent 소개 이미지"
                         className="w-full max-w-4xl object-cover"
                     />
