@@ -13,8 +13,8 @@ import Image from "next/image";
 //이미지 슬라이드 될 이미지들
 const images = [
   "/images/test.jpg",
-  "/images/ai_image.jpg",
   "/images/ai_image3.webp",
+  "/images/ai_image.jpg",
   "/images/ai_aigent_image.webp",
 ];
 
